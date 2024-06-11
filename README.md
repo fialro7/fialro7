@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fialro7
-- 👀 I’m interested in automation
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on some coding stuff
 - 📫 How to reach me? Find me at instagram: @fialro7
